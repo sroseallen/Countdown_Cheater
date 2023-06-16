@@ -3,13 +3,7 @@ A simple little comman line game written in Python, with two modes modelled afte
 
 ## Mode 1: Play the game
 
-Initialise on the command line with:
-
-```bash
-python ./src/Countdown_Game.py numbers_game()
-```
-
-Or within your Python environment:
+Initialise within your Python environment:
 
 ```python
 from src.Countdown_Game import *
@@ -24,12 +18,7 @@ The function will also tell you what the closest number possible is, along with 
 
 For people like me who also struggle with basic maths.
 
-Initialise on the command line with:
-```bash
-python ./src/Countdown_Game.py numbers_cheat()
-```
-
-Or within your Python environment:
+Initialise within your Python environment:
 
 ```python
 from src.Countdown_Game import *
