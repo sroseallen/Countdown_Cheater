@@ -1,5 +1,5 @@
 # Countdown Numbers Game
-A simple little comman line game written in Python, with two modes modelled after the Countdown TV Numbers Game (made mostly to practise use of threading and recursive functions).
+A simple little command line game written in Python, with two modes modelled after the Countdown TV Numbers Game (made mostly to practise use of threading and recursive functions).
 
 ## Mode 1: Play the game
 
